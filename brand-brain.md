@@ -18,31 +18,23 @@ TBC — Caner to confirm Shopify URL, Klaviyo account, ad platforms during onboa
 
 <!-- AUTO-SYNCED FROM ~/dev/ppaios-pp/references/client-roster.md — DO NOT EDIT BELOW THIS LINE; edit roster instead -->
 
-## 6. Pingfluence
+## 6. Pingfluence ✅
 
-- **Status:** active
-- **Tier:** sprint
-- **Started:** TBC (multiple deliverables already in Drive — sprint partly delivered)
-- **Window:** TBC
-- **Scope:** B2B email + creator-marketing tool for hospitality. Delivered already:
-  - 5-email brand nurture sequence
-  - Demo no-show recovery sequence
-  - Hospitality creator playbook 2026
-  - Outreach emails playbook
-  - Post-demo follow-up sequence
-  - Re-engagement sequence
-  - Ad creative
-  - Growth audit report + ROI calculator
-- **Invoicing:**
-  - Fee: TBC
-  - Cadence: TBC
-  - Last invoice: TBC
-  - Channel: TBC
-- **Stakeholders:** TBC
-- **Tools:** TBC
-- **Open questions:**
-  - Is this sprint complete (deliverables shipped) or ongoing?
-  - If ongoing — what's the next phase?
-  - Activation: are PP-drafted sequences live in their email tool yet?
+- **Status:** active ✅ — Sprint 1 (Offer) closing, **Sprint 2 (CRO) starting Week 5**
+- **Tier:** sprint retainer
+- **Onboarding:** 2026-03-17 ✅
+- **Account Manager:** Caner ✅
+- **Sprints:**
+  - Sprint 1: Offer ✅ (closing) — pricing strategy + 7-touch Apollo outreach + competitive landscape audit
+  - Sprint 2: CRO (begins Week 5) — fix JS rendering for SEO, optimise homepage + booking-flow conversions
+  - Sprint 3 (planned): Affiliates/UGC
+  - Sprint 4 (planned): Ads
+- **Current MRR:** £8.3k ✅
+- **Target MRR:** £25k by September 2026 ✅
+- **Scope (delivered):** 5-email brand nurture sequence, demo no-show recovery sequence, hospitality creator playbook 2026, post-demo follow-up, re-engagement, ad creative, growth audit + ROI calculator, 3-tier pricing launched
+- **Stakeholders:** **Ollie** (Oliver Andersen-Cox — confirmed in gmail thread `Ping Oliver Andersen-Cox has accepted this invitation`)
+- **Tools:** Apollo (7-touch outbound live + sending), competitive set tracked (Joli, Kolsquare, Collabstr, Modash, Heepsy, Invyted, Secret Social)
+- **Case studies confirmed by Ollie:** Lane7 (300+ creators, millions of views, booking spikes), Swiss Butter (queue + hour-long waits), Sixes (book 300+ creators, hit millions of views), Barry's (moved entirely to UGC)
+- **Links:** [`notion://Pingfluence Dashboard`](https://www.notion.so/32623a47bdd981c9b028cca032de9edc), [`notion://Sprint Playbook Pingfluence`](https://www.notion.so/32623a47bdd981ed9f1afa7415ee7152)
 
 ---
