@@ -1,12 +1,23 @@
 {
   "name": "PPAIOS — Pingfluence",
-  "description": "Pingfluence brand workspace. Tier: sprint. Hospitality creator-marketing tool. Multiple email sequence docx + ad-creative HTML + ROI calculator in Drive.",
+  "description": "Pingfluence brand workspace. Tier: sprint (full 17-agent roster — same skill surface as KIND2). Hospitality creator-marketing tool. Multiple email sequence docx + ad-creative HTML + ROI calculator in Drive.",
   "agents": [
     "director",
     "analytics",
+    "customer-service",
     "email-sms",
+    "site-cro",
     "content-seo",
     "creative",
-    "social-media"
+    "social-media",
+    "paid-ads",
+    "reseller-outreach",
+    "creator-manager",
+    "amazon-ppc",
+    "amazon-catalogue",
+    "finance-reporter",
+    "logistics-inventory",
+    "reviews-social-proof",
+    "retention-curator"
   ]
 }
